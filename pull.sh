@@ -1,1 +1,1 @@
-git --git-dir=/root/testFile/.git/ pull
+git --git-dir=/root/testFile/.git/ --work-tree=/root/testFile pull
